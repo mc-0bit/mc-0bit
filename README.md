@@ -29,8 +29,7 @@
 
 ###
 
-<img align="right" height="200px" src="https://raw.githubusercontent.com/mc-0bit/mc-0bit/output/snake.svg" alt="Snake animation" />
-
+<img align="right" height="200px" src="./unitato.gif" alt="unitato" />
 
 ###
 
